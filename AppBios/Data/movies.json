@@ -1,0 +1,44 @@
+﻿[
+	{
+		"id": 1,
+		"name": "Sonic The Hedgehog 2",
+		"genre": "Adventure",
+		"duration": 122,
+		"description": "After settling in Green Hills, Sonic is ready for more freedom, and Tom and Maddie agree to leave him home while they go on vacation.\n But, no sooner are they gone, when Dr. Robotnik comes back, this time with a new partner, Knuckles, in search for an emerald that has the power to both\n build and destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a journey to find the emerald before it falls\n into the wrong hands. Being directed by Jeff Fowler, and starring Jim Carrey, James Marsden, and Ben Schwartz."
+	},
+	{
+		"id": 2,
+		"name": "Doctor Strange in the Multiverse of Madness",
+		"genre": "Action, Adventure & Science Fiction",
+		"duration": 127,
+		"description": "Dr. Stephen Strange casts a forbidden spell that opens the doorway to the multiverse, including alternate versions of himself,\n whose threat to humanity is too great for the combined forces of Strange, Wong, and Wanda Maximoff."
+	},
+	{
+		"id": 3,
+		"name": "Fantastic Beasts: The Secrets Of Dumbledore",
+		"genre": "Action, Adventure & Fantasy",
+		"duration": 143,
+		"description": "Professor Albus Dumbledore knows the powerful Dark wizard Gellert Grindelwald is moving to seize control of the wizarding world.\n Unable to stop him alone, he entrusts Magizoologist Newt Scamander to lead an intrepid team of wizards, witches and one brave Muggle baker on a dangerous mission,\n where they encounter old and new beasts and clash with Grindelwald's growing legion of followers.\n But with the stakes so high, how long can Dumbledore remain on the sidelines?"
+	},
+	{
+		"id": 4,
+		"name": "Jurassic World: Domination",
+		"genre": "Action, Adventure, Science Fiction & Thriller",
+		"duration": 147,
+		"description": "Four years after the destruction of Isla Nublar, dinosaurs now live--and hunt--alongside humans all over the world.\n This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures in a new Era."
+	},
+	{
+		"id": 5,
+		"name": "Downtown Abbey: A New Era",
+		"genre": "Drama, Romance",
+		"duration": 126,
+		"description": "Lord Robert Crawley, Earl of Grantham (Hugh Bonneville) sees his family heritage, especially the grand country home Downton Abbey,\n as his mission in life. The death of his heir aboard R.M.S. Titanic means distant cousin Matthew Crawley (Dan Stevens), a Manchester lawyer,\n suddenly is next in line and accepts moving onto the vast estate with his even more modernist, socially engaged mother,\n who clashes with his Lordship's domineering, conservative mother,\n the dowager countess. Marrying off the daughters is another concern.\n Meanwhile, the butler presides over a staff which serves the family, but also lead most of their entire lives in the servants' quarters, intriguing amongst themselves"
+	},
+	{
+		"id": 6,
+		"name": "Sing 2",
+		"genre": "Animation, Adventure, Comedy, Family & Musical",
+		"duration": 110,
+		"description": "This holiday season, the new chapter in Illumination's smash animated franchise arrives with big dreams and\n spectacular hit songs as the ever-optimistic koala, Buster Moon, and his all-star cast of performers prepare to launch their most dazzling stage extravaganza yet... all in the glittering entertainment capital of the world.\n There's just one hitch: They first have to persuade the world's most reclusive rock star--played by global music icon Bono, in his animated film debut--to join them"
+	}
+]
